@@ -8,4 +8,4 @@
 
 #### On that note, the main web page of my final project can be found here:
 
-[Final Project](/.main-page.html)
+[Final Project](/main-page.html)
